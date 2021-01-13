@@ -1,5 +1,5 @@
-# Planet Notes about Planets to Move To
+# Planedaj Notoj pri Planedoj Por Moviĝi
 
-This is a test repo for a Foundations for Research Computing workshop. 
-Please ignore, unless you are Dracula or Wolfman.
+Ĉi tio estas testodeponejo por laborejo pri Fundamentoj por Esplora Komputiko.
+Bonvolu ignori, krom se vi estas Drakulo aŭ Lupulo.
 
